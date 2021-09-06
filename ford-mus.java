@@ -1,0 +1,3 @@
+- new genration car
+- high level
+- petrol
